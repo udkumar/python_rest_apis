@@ -14,6 +14,5 @@ API:
 /api/v1/resources/books?author=Connie+Willis&published=1999
 ```
 ```
-```
 /api/v1/resources/books?published=2010
 ```
